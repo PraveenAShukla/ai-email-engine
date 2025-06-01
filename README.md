@@ -34,7 +34,7 @@ This Streamlit application automates email replies using AI and allows support t
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/auto-email-responder.git
+git clone https://github.com/PraveenAShukla/auto-email-responder.git
 cd auto-email-responder ```
 
 
