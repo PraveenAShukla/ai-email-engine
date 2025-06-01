@@ -119,7 +119,7 @@ st.markdown(
 # Main function
 def main():
 
-    # Display IITM BS Degree Support Team logo/banner at the top
+    # Display IITM  Team logo/banner at the top
     st.image(
         "Lumio AI (7).png",  # Replace with your image filename
         caption="",  # Caption below the image
